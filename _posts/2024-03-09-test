@@ -1,9 +1,9 @@
 ---
 layout: post
-title: template page
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+title: 如何接住空投给 GitHub 用户的「泼天富贵」？
+categories: [GitHub]
+description: 不时的有数字货币基金会空投给 GitHub 用户，如何接住这天上掉的「馅饼」呢？
+keywords: GitHub, 空投
 mermaid: false
 sequence: false
 flow: false
@@ -12,9 +12,4 @@ mindmap: false
 mindmap2: false
 ---
 
-Content here
-
-##文章目录
-
-###是这么添加文章的吗
-是这么添加
+## 背景
