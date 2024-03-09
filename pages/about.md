@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: D66分享网
+keywords: d66
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+欢迎来到D66分享站，你的网络奇趣之旅！在这里，我们精选分享各类趣站、网络技术、好用软件等精彩资源，助你畅游互联网的海洋。发现新奇，了解技术，体验便捷，D66.cn陪你一起探索无尽的网络世界。立即加入我们，掌握最新潮的网络资讯，畅享数字时代的精彩旅程！
 
 ## 联系
 
