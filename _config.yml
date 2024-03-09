@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://d66.cn
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: D66分享网
+subtitle: "你好我好大家好"
+description: "欢迎来到D66分享站，你的网络奇趣之旅！在这里，我们精选分享各类趣站、网络技术、好用软件等精彩资源，助你畅游互联网的海洋。发现新奇，了解技术，体验便捷，D66.cn陪你一起探索无尽的网络世界。立即加入我们，掌握最新潮的网络资讯，畅享数字时代的精彩旅程！"
+keywords: D66分享网
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2024
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: cnscorpion/cnscorpion.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2024-03-03
     # My Popular Repositories
     side_bar_repo:
         enabled: true
